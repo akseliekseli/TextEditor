@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TextEditor</string>
+    <string name="tekstieditori">Tekstieditori</string>
+    <string name="hint">hint</string>
+    <string name="tallenna">Tallenna</string>
+    <string name="lataa">Lataa</string>
+    <string name="hint2">hint</string>
+    <string name="sy_t_teksti">Syötä tekstiä</string>
+    <string name="anna_tiedoston_nimi">Anna tiedoston nimi:</string>
+</resources>
